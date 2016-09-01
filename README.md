@@ -5,3 +5,5 @@ This is a basic demo and serves no real purpose other than being an interesting 
 
 Currently all properties are written in the code and everything is hosted locally.
 To test, simply run the server application and then as many client applications as you desire.
+
+Requirements: Java 8
